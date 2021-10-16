@@ -69,18 +69,17 @@
             <WrapPanel>
                 <Image Source="assets/episodioIV.jpg"></Image>
                 <Image Source="assets/episodioIV.jpg"></Image>
-                <Image Source="assets/episodioIV.jpg"
-                       ></Image>
-                <Image Source="assets/episodioIV.jpg"
-                      ></Image>
-                <Image Source="assets/episodioIV.jpg"
-                      ></Image>
-                <Image Source="assets/episodioIV.jpg"
-                      ></Image>
-                <Image Source="assets/episodioIV.jpg"
-                     ></Image>
-                <Image Source="assets/episodioIV.jpg"
-                     ></Image>
+                <Image Source="assets/episodioIV.jpg"></Image>
+                <Image
+                    Source="assets/episodioIV.jpg"></Image>
+                <Image
+                    Source="assets/episodioIV.jpg"></Image>
+                <Image
+                    Source="assets/episodioIV.jpg"></Image>
+                <Image
+                    Source="assets/episodioIV.jpg"></Image>
+                <Image
+                    Source="assets/episodioIV.jpg"></Image>
             </WrapPanel>
         </StackPanel>
     </DockPanel>
